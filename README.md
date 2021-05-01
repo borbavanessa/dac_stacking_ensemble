@@ -1,2 +1,2 @@
-# dac_stacking_ensemble
-DAC Stacking Ensemble - Multi-task Classifier
+# dac_stacking_models
+DAC Stacking - Multi-task Classifiers
